@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch --index-url https://download.pytorch.org/whl/cpu
+sentencepiece
+requests
+bcrypt
+python-dotenv
+protobuf
+deep-translator
+trafilatura
